@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to my portfolio",
+  "about": "About Me",
+  "projects": "Projects",
+  "home": {
+    "greeting": "Hi, I'm Madeha",
+    "description": "I’m a software developer with a strong academic background in Computer Science (BSc) and Applied Mathematics (MSc). I’m passionate about software development and database design. During my studies, I built full systems including both UI and database components. I am authorized to work in Austria and currently building my portfolio while seeking exciting professional opportunities here."
+  }
+}
